@@ -84,10 +84,18 @@ Execute cells in order. The pipeline will:
 **Query:** *"universities with very high research intensity in Switzerland"*
 
 **Response:**
-> Based on the provided context, three Swiss universities have very high research intensity:
-> - **École Polytechnique Fédérale de Lausanne (EPFL)** — ranked 22nd globally, overall score 90.2
-> - **University of Geneva** — ranked 155th, overall score 61.5  
-> - **University of Lausanne** — ranked 212th, overall score 54.6
+
+# Universities with Very High Research Intensity in Switzerland
+
+Based on the provided data, all three universities listed in Switzerland have **Very High (VH)** research intensity:
+
+| Rank | University | Global Ranking | Overall Score | Research Intensity |
+|------|-----------|---------------|---------------|-------------------|
+| 1 | **École Polytechnique Fédérale de Lausanne** | 22 | 90.2 | VH |
+| 2 | **University of Geneva** | 155 | 61.5 | VH |
+| 3 | **University of Lausanne** | 212 | 54.6 | VH |
+
+All three are **public** institutions. Notably, École Polytechnique Fédérale de Lausanne (EPFL) stands out significantly with its global ranking of **22nd** and an overall score of **90.2**, far ahead of the other two. All three share the very high research intensity designation, reflecting Switzerland's strong commitment to research-driven higher education.
 
 ## Limitations
 
